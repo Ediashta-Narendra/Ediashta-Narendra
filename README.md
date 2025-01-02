@@ -18,5 +18,5 @@ I am Narendra, a committed data enthusiast, inspired by curiosity and a passion 
 
 ---
 
-✨ _“Every dataset has a story to tell, and I’m here to find it.”_ ✨
+✨ _“Thank you for landing on my GitHub! Feel free to explore my projects, and don’t hesitate to reach out if you’d like to collaborate. 😊”_ ✨
 
