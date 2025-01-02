@@ -1,12 +1,11 @@
-# Hi there, I'm Narendra! 👋
+# Hi there👋
 
-🎓 I am currently deepening my skills in **Data Science**, with a strong passion for uncovering insights from data and building impactful solutions.
+I am a committed data enthusiast, inspired by curiosity and a passion for learning. My path in data science began with completing a comprehensive full-time bootcamp in 2020 and 2024 .
 
-## 🚀 About Me:
-- 🌱 Currently honing my skills in **Data Science** after completing a **Full-Time Bootcamp at Hacktive8**.
-- 🎓 Academically trained with a Master's degree in **Marketing Management**.
-- 🔭 Experienced in managing IT solution implementation projects.
-
+## About Me:
+- 🌱 Currently Learning: Advanced Python and SQL, diving deeper into multiple Machine Learning algorithms, and exploring advanced Visualization Tools.
+- 🎓 Educational Background: Academically trained with a Master's degree in Business Management.
+- 👯 Open to Collaborate On: Machine Learning models, Deep Learning projects (NLP and Computer Vision), and data-driven projects with a business impact.
 ## 🛠️ Skills and Tools:
 - **Programming**: Python, PostgreSQL
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, BeautifulSoup, Streamlit
