@@ -1,27 +1,26 @@
 # Ediashta Narendra Amarussalam - Data Enthusiast
 
-Hi there👋 I am Narendra. Welcome to my GitHub
+Hi I am Narendra, welcome to my GitHub Profile!
+
 
 ## About Me
 
-As an International Relations graduate, my data journey began when 
-I am Narendra, a committed data enthusiast, inspired by curiosity and a passion for learning. My path in data science began with completing a comprehensive full-time bootcamp in 2024 .
+I graduated with a degree in International Relations but began exploring my data journey in 2020. During that time, I learned how to build predictive models for time series sales forecasting. This experience deepened my understanding of business analytics, leading me to pursue a master's degree in Management. Recently, I enhanced my skills by completing a Full-time Data Science Bootcamp at Hacktiv8, Jakarta.
 
-## About Me:
-- 🌱 Currently Learning: Advanced Python and SQL, diving deeper into multiple Machine Learning algorithms, and exploring advanced Visualization Tools.
-- 🎓 Educational Background: Academically trained with a degree in International Relations and Business Management.
-- 👯 Open to Collaborate On: Machine Learning models, Deep Learning projects (NLP and Computer Vision), and data-driven projects with a business impact.
-## 🛠️ Skills and Tools:
-- **Programming**: Python, PostgreSQL
+I have a solid foundation in Python and SQL for machine learning and data analysis. Additionally, I have hands-on experience with data visualization tools such as Tableau and Kibana, as well as database management systems like MongoDB. I am also familiar with ETL-related technologies, including Docker and Elasticsearch, for data processing and deployment.
+
+
+## Tech Stacks:
+- **Programming**: Python, SQL
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, BeautifulSoup, Streamlit
 - **Visualization**: Tableau, Matplotlib, Seaborn
-- **Other Tools**: Elastic Airflow, Kibana, MongoDB
+- **Other Tools**: Elastic Airflow, Kibana, MongoDB, Docker
 
-## 📫 Let's Connect:
-- 📧 Email: [ediashtanarendra@gmail.com](mailto:ediashtanarendra@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ediashta-narendra/)
+## Let's Connect:
+- Email: [ediashtanarendra@gmail.com](mailto:ediashtanarendra@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ediashta-narendra/)
 
 ---
 
-✨ _“Thank you for landing on my GitHub! Feel free to explore my projects, and don’t hesitate to reach out if you’d like to collaborate. 😊”_ ✨
+Its a pleasure to explore my projects, and to connect for 
 
