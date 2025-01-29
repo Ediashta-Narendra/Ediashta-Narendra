@@ -4,6 +4,7 @@ Hi there👋 I am Narendra. Welcome to my GitHub
 
 ## About Me
 
+As an International Relations graduate, my data journey began when 
 I am Narendra, a committed data enthusiast, inspired by curiosity and a passion for learning. My path in data science began with completing a comprehensive full-time bootcamp in 2024 .
 
 ## About Me:
