@@ -14,7 +14,7 @@ I have a solid foundation in Python and SQL for machine learning and data analys
 - **Programming**: Python, SQL
 - **Libraries & Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, BeautifulSoup, Streamlit
 - **Visualization**: Tableau, Matplotlib, Seaborn
-- **Other Tools**: Elastic Airflow, Kibana, MongoDB, Docker
+- **Other Tools**: Apache Airflow, Kibana, MongoDB, Docker
 
 ## Let's Connect:
 - Email: [ediashtanarendra@gmail.com](mailto:ediashtanarendra@gmail.com)
@@ -22,5 +22,5 @@ I have a solid foundation in Python and SQL for machine learning and data analys
 
 ---
 
-Its a pleasure to explore my projects, and to connect for 
+It's my pleasure to have you explore my projects and connect for collaborations, ideas, or discussions related to data
 
